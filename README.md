@@ -43,9 +43,7 @@
     <br />The goal of the project was to create a neural network built and trained specifically for the evaluation of Keyforge decks.
     <br /> 
     <br />
-    <a href="#demo">View Demo</a>
-    ·
-    <a href="https://github.com/Stikinit/keyforge-deck-evaluation/blob/master/DocsAndResources/NuriCheatExplanationDocument.pdf">In-Depth Document (Italian)</a>
+    <a href="https://github.com/Stikinit/keyforge-deck-evaluation/blob/main/Resources/Docs/Progetto-KeyForgeEval.pdf">In-Depth Document (Italian)</a>
     ·
     <a href="https://github.com/Stikinit/keyforge-deck-evaluation/issues">Report Bug</a>
     ·
@@ -153,7 +151,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/Stikinit/keyforge-deck-evaluation/main/LICENSE.txt) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/Stikinit/keyforge-deck-evaluation/blob/main/LICENSE.txt) for more information.
 
 
 
@@ -179,7 +177,7 @@ Project Link: [https://github.com/Stikinit/keyforge-deck-evaluation](https://git
 [issues-shield]: https://img.shields.io/github/issues/Stikinit/keyforge-deck-evaluation.svg?style=for-the-badge
 [issues-url]: https://github.com/Stikinit/keyforge-deck-evaluation/issues
 [license-shield]: https://img.shields.io/github/license/Stikinit/keyforge-deck-evaluation.svg?style=for-the-badge
-[license-url]: https://github.com/Stikinit/keyforge-deck-evaluation/main/LICENSE.txt
+[license-url]: https://github.com/Stikinit/keyforge-deck-evaluation/blob/main/LICENSE.txt
 [github-shield]: https://img.shields.io/github/followers/Stikinit.svg?style=social&label=Follow
 [github-url]: https://github.com/Stikinit
 
