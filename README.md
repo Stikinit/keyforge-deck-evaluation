@@ -121,9 +121,9 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To use the application either:
-* Run the KFE-Demo.py file to see the pre-trained model in action.
-* Execute all the jupyter notebook to train and test a new model.
+To use the application:
+* Run dataset_creation.py
+* Run either kfe_demo.py or KF_Eval_NN_Attention.ipynb
 
 
 
@@ -153,7 +153,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/Stikinit/keyforge-deck-evaluation/blob/master/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/Stikinit/keyforge-deck-evaluation/main/LICENSE.txt) for more information.
 
 
 
@@ -179,7 +179,7 @@ Project Link: [https://github.com/Stikinit/keyforge-deck-evaluation](https://git
 [issues-shield]: https://img.shields.io/github/issues/Stikinit/keyforge-deck-evaluation.svg?style=for-the-badge
 [issues-url]: https://github.com/Stikinit/keyforge-deck-evaluation/issues
 [license-shield]: https://img.shields.io/github/license/Stikinit/keyforge-deck-evaluation.svg?style=for-the-badge
-[license-url]: https://github.com/Stikinit/keyforge-deck-evaluation/blob/master/LICENSE.txt
+[license-url]: https://github.com/Stikinit/keyforge-deck-evaluation/main/LICENSE.txt
 [github-shield]: https://img.shields.io/github/followers/Stikinit.svg?style=social&label=Follow
 [github-url]: https://github.com/Stikinit
 
