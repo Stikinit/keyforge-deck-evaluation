@@ -113,6 +113,7 @@ To get a local copy up and running follow these simple steps.
 4. Install the latest version of Python.
 5. Open the directory with Visual Studio Code.
 6. Make sure to have all the required VSCode extensions and Python packages installed.
+7. Unzip the 7z file in the Resources folder.
 
 
 
