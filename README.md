@@ -43,7 +43,7 @@
     <br />The goal of the project was to create a neural network built and trained specifically for the evaluation of Keyforge decks.
     <br /> 
     <br />
-    <a href="https://github.com/Stikinit/keyforge-deck-evaluation/blob/main/Resources/Docs/Progetto-KeyForgeEval.docx">In-Depth Document (Italian)</a>
+    <a href="https://github.com/Stikinit/keyforge-deck-evaluation/blob/main/Resources/Docs/Progetto-KeyForgeEval.pdf">In-Depth Document (Italian)</a>
     ·
     <a href="https://github.com/Stikinit/keyforge-deck-evaluation/issues">Report Bug</a>
     ·
